@@ -10,7 +10,7 @@ tinkerers, and even a few hundred rocket scientists who used Python to
 help land a rover on Mars--they've all taken this course. Now, I'm
 pleased to make it available under a Creative Commons license. Enjoy!
 
-[GitHub Pages](https://dabeaz-course.github.io/practical-python) | [GitHub Repo](https://github.com/dabeaz-course/practical-python).
+[GitHub Pages](https://dabeaz-course.github.io/practical-python) | [GitHub Repo](https://github.com/dabeaz-course/practical-python). | [Notes](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 
 --David Beazley ([https://dabeaz.com](https://dabeaz.com)), [@dabeaz](https://twitter.com/dabeaz)
 
